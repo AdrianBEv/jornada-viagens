@@ -1,3 +1,17 @@
+:root{
+    --background-primary-color: #FFFFFF;
+    --background-secundary-color: #F5F5F5;
+    --background-tertiary-color: #000000;
+
+    --button-primary-color:#8F0101;
+    --button-secundary-color:#B81515;
+
+    --text-primary-color: #222222;
+    --text-secundary-color: #FFFFFF;
+}
+
+
+
 /*CSS RESET*/
 
 body, img, p, fieldset, legennd, label, input, select, textarea, button{
