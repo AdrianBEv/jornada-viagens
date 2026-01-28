@@ -9,12 +9,16 @@ header {
 
 .logo {
   display: inline-block;
-  width: 68;
+  width: 68px;
   height: 64px;
 }
 
 .navigation-menu {
   margin-top: 23px;
+}
+
+input[type="checkbox"]:checked ~ nav{
+    display: block;
 }
 
 nav {
